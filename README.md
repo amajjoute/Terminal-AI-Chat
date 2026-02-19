@@ -60,7 +60,7 @@ python3 chat.py
 ## Memory examples
 ### See what is remembered
 ```text
-you> my name is Mila
+you> my name is Milas
 you> I like clean UI
 you> I am learning web development and api design
 you> /memory
@@ -77,7 +77,7 @@ you> /forget api
 Removes matching entries such as `api design` from remembered topics.
 
 ```text
-you> /forget mila
+you> /forget milas
 ```
 Removes matching entries such as `user_name:Mila`.
 
