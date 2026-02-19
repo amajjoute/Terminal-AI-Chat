@@ -66,7 +66,7 @@ you> I am learning web development and api design
 you> /memory
 ```
 Expected memory snapshot includes:
-- fact like `user_name:Mila`
+- fact like `user_name:Milas`
 - like like `clean ui`
 - topics like `web development`, `api design`
 
